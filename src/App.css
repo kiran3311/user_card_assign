@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  border: 2px solid black;
+  background-color: beige;
+  display: inline-block;
+  margin: 20px;
+  
+  border-radius: 10px;
+  box-shadow: 4px 4px 6px 6px grey;
+}
+.btnX{
+  border: 2px solid black;
+  border-radius: 5px;
+
+}
+.x{
+  text-align: right;
+  padding: 5px;
+}
+.cardBody{
+  padding: 20px;
+}
+button{
+  cursor: pointer;
+}
+
+.addUser{
+  margin: 30px;
+}
+input{
+  margin: 10px;
+}
